@@ -1,0 +1,1 @@
+It is an app named News Feed. It shows the top headlines, with a minor description of it, of the news of country India in RecyclerView. It uses the Retrofit library, which is a REST Client for Java and Android. Clicking the headline will show the complete news.
